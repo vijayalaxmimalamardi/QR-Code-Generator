@@ -1,1 +1,1 @@
-# second
+QR Code Generator Project : The "Generate QR Code" project allows users to create QR codes for text or URLs. Users input their desired text or URL into a box provided by the application. Upon submission, the application dynamically generates a QR code corresponding to the input. Users can then download the generated QR code image for their use. The application is designed to be responsive, ensuring compatibility and usability across various devices.
